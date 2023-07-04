@@ -15,7 +15,6 @@
 		18B1CDDA2A4B383A005A2B57 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B1CDD92A4B383A005A2B57 /* Tab.swift */; };
 		18B1CDDD2A4B3998005A2B57 /* AppData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B1CDDC2A4B3998005A2B57 /* AppData.swift */; };
 		18B1CDE62A4B3B67005A2B57 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B1CDE52A4B3B67005A2B57 /* HomeView.swift */; };
-		18B98AC12A54582000F281BF /* DeepLinkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B98AC02A54582000F281BF /* DeepLinkManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		18B1CDD92A4B383A005A2B57 /* Tab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
 		18B1CDDC2A4B3998005A2B57 /* AppData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppData.swift; sourceTree = "<group>"; };
 		18B1CDE52A4B3B67005A2B57 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
-		18B98AC02A54582000F281BF /* DeepLinkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepLinkManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +65,6 @@
 				18B1CDD52A4B141E005A2B57 /* Info.plist */,
 				18B1CDDC2A4B3998005A2B57 /* AppData.swift */,
 				18B1CDC92A4A2703005A2B57 /* ContentView.swift */,
-				18B98AC02A54582000F281BF /* DeepLinkManager.swift */,
 				18B1CDC72A4A2703005A2B57 /* DeepLinkingApp.swift */,
 				18B1CDCB2A4A2704005A2B57 /* Assets.xcassets */,
 				18B1CDCD2A4A2704005A2B57 /* Preview Content */,
@@ -175,7 +172,6 @@
 				18B1CDCA2A4A2703005A2B57 /* ContentView.swift in Sources */,
 				18B1CDC82A4A2703005A2B57 /* DeepLinkingApp.swift in Sources */,
 				18B1CDDA2A4B383A005A2B57 /* Tab.swift in Sources */,
-				18B98AC12A54582000F281BF /* DeepLinkManager.swift in Sources */,
 				18B1CDDD2A4B3998005A2B57 /* AppData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
